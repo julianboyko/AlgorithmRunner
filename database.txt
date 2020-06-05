@@ -1,0 +1,132 @@
+ Bubble Sort Array: 2.739363
+ Concurrent Provided Array Sort: 0.096282
+ Bubble Sort Array: 3.21962
+ Bubble Sort ArrayList: 12.292506
+ Concurrent Provided Array Sort: 0.062169
+ Sequential Linked List Provided Sort: 0.092427
+ Sequential Array List Provided Sort: 0.091773
+ Sequential Array Provided Sort: 0.015313
+ Parallel Merge Array List Sort: 2.37E-4
+ Parallel Merge Array Sort: 2.03E-4
+ Bubble Sort ArrayList: 9.678651
+ Bubble Sort ArrayList: 8.665758
+ Sequential Array Provided Sort: 0.014514
+ Parallel Merge Array List Sort: 2.25E-4
+ Parallel Merge Array Sort: 1.54E-4
+ Bubble Sort Array: 2.470357
+ Concurrent Provided Array Sort: 0.103014
+ Bubble Sort Array: 2.769996
+ Bubble Sort ArrayList: 9.569518
+ Sequential Array Provided Sort: 0.013106
+ Sequential Array List Provided Sort: 0.738682
+ Parallel Merge Array Sort: 0.001572
+ Bubble Sort ArrayList: 19.401731
+ Bubble Sort Array: 7.315799
+ Parallel Merge Array Sort: 2.36E-4
+ Sequential Array Provided Sort: 0.027891
+ Sequential Array Provided Sort: 0.027851
+ Concurrent Provided Array Sort: 0.081338
+ Concurrent Provided Array Sort: 0.055543
+ Concurrent Provided Array Sort: 0.09097
+ Concurrent Provided Array Sort: 0.062969
+ Bubble Sort Array: 2.669893
+ Sequential Linked List Provided Sort: 0.136258
+ Bubble Sort Array: 4.931981
+ Sequential Array Provided Sort: 0.048071
+ Concurrent Provided Array Sort: 0.11671
+ Concurrent Provided Array Sort: 0.709563
+ Sequential Array Provided Sort: 0.03908
+ Parallel Merge Array Sort: 0.004996
+ Bubble Sort Array: 5.585784
+ Parallel Merge Array Sort: 1.52E-4
+ Sequential Array List Provided Sort: 0.04469
+ Sequential Array List Provided Sort: 0.052377
+ Concurrent Provided Array Sort: 0.06218
+ Concurrent Provided Array Sort: 0.062293
+ Concurrent Provided Array Sort: 0.038345
+ Bubble Sort Array: 2.565094
+ Bubble Sort ArrayList: 9.285673
+ Parallel Merge Array Sort: 2.11E-4
+ Parallel Merge Array Sort: 1.66E-4
+ Parallel Merge Array List Sort: 1.74E-4
+ Parallel Merge Array List Sort: 1.52E-4
+ Sequential Linked List Provided Sort: 0.063141
+ Sequential Linked List Provided Sort: 0.066859
+ Sequential Linked List Provided Sort: 0.045833
+ Sequential Array List Provided Sort: 0.246461
+ Sequential Array Provided Sort: 0.015379
+ Concurrent Provided Array Sort: 0.084731
+ Bubble Sort Array: 2.655663
+ Parallel Merge Array Sort: 3.93E-4
+ Sequential Array Provided Sort: 0.018024
+ Sequential Linked List Provided Sort: 0.049037
+ Bubble Sort Array: 2.484646
+ Sequential Linked List Provided Sort: 0.08041
+ Concurrent Provided Array Sort: 0.091069
+ Sequential Array List Provided Sort: 0.048944
+ Sequential Array Provided Sort: 0.012342
+ Parallel Merge Array List Sort: 2.16E-4
+ Parallel Merge Array Sort: 1.65E-4
+ Bubble Sort ArrayList: 10.889314
+ Bubble Sort Array: 2.481761
+ Bubble Sort Array: 6.393992
+ Bubble Sort ArrayList: 24.393938
+ Parallel Merge Array Sort: 2.55E-4
+ Parallel Merge Array List Sort: 1.85E-4
+ Sequential Array Provided Sort: 0.025865
+ Sequential Array List Provided Sort: 0.068647
+ Sequential Linked List Provided Sort: 0.103608
+ Concurrent Provided Array Sort: 0.14324
+ Concurrent Provided Array Sort: 0.059907
+ Bubble Sort Array: 2.205687
+ Bubble Sort Array: 2.975246
+ Bubble Sort Array: 2.915091
+ Bubble Sort Array: 2.405559
+ Parallel Merge Array List Sort: 1.93E-4
+ Sequential Array Provided Sort: 0.012469
+ Sequential Array List Provided Sort: 0.062067
+ Bubble Sort ArrayList: 9.912992
+ Bubble Sort Array: 2.780794
+ Concurrent Provided Array Sort: 0.077924
+ Sequential Linked List Provided Sort: 0.075577
+ Bubble Sort ArrayList: 10.973373
+ Bubble Sort Array: 2.515205
+ Bubble Sort Array: 2.82199
+ Bubble Sort Array: 2.476214
+ Sequential Array Provided Sort: 0.019147
+ Sequential Linked List Provided Sort: 0.064235
+ Concurrent Provided Array Sort: 0.083439
+ Bubble Sort Array: 5.7834
+ Sequential Array List Provided Sort: 0.172917
+ Sequential Linked List Provided Sort: 0.152217
+ Concurrent Provided Array Sort: 0.13971
+ Sequential Array Provided Sort: 0.020868
+ Parallel Merge Array List Sort: 2.02E-4
+ Parallel Merge Array Sort: 9.34E-4
+ Bubble Sort Array: 6.307023
+ Bubble Sort ArrayList: 22.879415
+ Concurrent Provided Array Sort: 0.099513
+ Sequential Linked List Provided Sort: 0.165713
+ Sequential Array List Provided Sort: 0.155344
+ Sequential Array Provided Sort: 0.012024
+ Parallel Merge Array List Sort: 2.42E-4
+ Parallel Merge Array List Sort: 4.05E-4
+ Parallel Merge Array Sort: 1.9E-4
+ Bubble Sort ArrayList: 15.077341
+ Bubble Sort Array: 3.10016
+ Bubble Sort ArrayList: 9.197255
+ Parallel Merge Array Sort: 2.05E-4
+ Parallel Merge Array List Sort: 1.8E-4
+ Sequential Array List Provided Sort: 0.060976
+ Sequential Array Provided Sort: 0.013435
+ Sequential Linked List Provided Sort: 0.068686
+ Concurrent Provided Array Sort: 0.076451
+ Bubble Sort Array: 2.773996
+ Bubble Sort Array: 3.26764
+ Bubble Sort Array: 2.788156
+ Bubble Sort Array: 3.317214
+ Parallel Merge Array List Sort: 2.11E-4
+ Sequential Array List Provided Sort: 0.037347
+ Sequential Linked List Provided Sort: 0.051559
+ Concurrent Provided Array Sort: 0.047559
+ Parallel Merge Array List Sort: 2.02E-4
